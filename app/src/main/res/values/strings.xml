@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modulo3Aula1</string>
+    <string name="tema_claro">Tema Claro</string>
+    <string name="tema_escuro">Tema Escuro</string>
+</resources>
